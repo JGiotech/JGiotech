@@ -1,4 +1,4 @@
-### Olá! Eu sou a Joelma Ferreira 😁
+### Olá! Eu sou a Giovanna Ferreira 😁
  
 - 🔭 Hoje eu estudo back-end
 - 🌱 Me expecialiando em Java
