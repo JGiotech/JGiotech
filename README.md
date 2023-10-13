@@ -2,7 +2,6 @@
  
 - 🔭 Hoje eu estudo back-end
 - 🌱 Me expecialiando em Java
-- 💬 Ask me about ...
 - 📫 Contate-me no email: giovannabarbosah38@gmail.com
 - 😄 Pronouns: ela/dela
 
