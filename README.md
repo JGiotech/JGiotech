@@ -1,21 +1,32 @@
-### Olá! Eu sou a Giovanna Ferreira 😁
- 
-- 🔭 Hoje eu estudo back-end
-- 🌱 Me expecialiando em Java
-- 📫 Contate-me no email: giovannabarbosah38@gmail.com
-- 😄 Pronouns: ela/dela
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
- 
-</div>
 
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/gi0vann.a/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giovanna-ferreira-8521a2296/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Oiii+.+Meu+nome+é+Joelma+Giovanna,+e+eu+sou+uma+backend+dev)
+
+| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGiotech&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Joelma Giovanna GitHub stats](https://github-readme-stats.vercel.app/api?username=JGiotech&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
+| ----------- | ----------- |
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=JGiotech&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JGiotech&theme=radical) |
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=JGiotech&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=JGiotech&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
+
+<br>
+
+###
+🤓 **▸ Your daily dev inspiration:**
+
+  <img width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
+💬 **▸ Socials & Contacts:**
+
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athirson-s-a7723a191/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/athirson.silv4/)
+  [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athirsonarceus@gmail.com)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-179828?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5511957607177)
+
+## Education
+
+###
+
+  <a href="https://ucb.catolica.edu.br/"><img src="./assets/ucb.png" align="left" width="94" height="94" alt="UCB"/></a>
+  **UCB (Universidade Católica de Brasília)** \
+  Graduation in Software Engineer \
+  <i>Dez. 2027</i> - <i>currently now...</i>
+    
