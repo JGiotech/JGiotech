@@ -16,10 +16,9 @@
 
 💬 **▸ Socials & Contacts:**
 
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athirson-s-a7723a191/)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/athirson.silv4/)
-  [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athirsonarceus@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-179828?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=5511957607177)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-ferreira-8521a2296/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gi0vann.a/)
+  [![Email](https://img.shields.io/badge/Gmail-F51919?style=for-the-badge&logo=gmail&logoColor=white)](giovannabarbosah38@gmail.com)
 
 ## Education
 
